@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "azsphere", "azsphere\azsphere.vcxproj", "{E8DD03A2-E1BD-44A9-9490-7B950A660B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DD03A2-E1BD-44A9-9490-7B950A660B82}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E8DD03A2-E1BD-44A9-9490-7B950A660B82}.Debug|ARM.Build.0 = Debug|ARM
+		{E8DD03A2-E1BD-44A9-9490-7B950A660B82}.Release|ARM.ActiveCfg = Release|ARM
+		{E8DD03A2-E1BD-44A9-9490-7B950A660B82}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0833F086-15C3-42CF-A967-929887A0048D}
+	EndGlobalSection
+EndGlobal
