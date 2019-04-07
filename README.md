@@ -7,7 +7,7 @@ Seeed SKU: 102991012, 102110267, 317060362
 # Azure Sphere Shield for Hub75 RGB Matrixes
  This shield plugs into your Azure Sphere MT3620 development kit. Makes it super easy to control a Hub75 RGB matrices and create a colorful scrolling display or mini LED wall with ease. Onboard logic level shifters convert the MT3620 3.3V to 5.0V logic for clean and glitch free matrix driving.
 
-![](https://github.com/microcompiler/bridgetek/blob/master/images/mx-board.gif) <!-- .element height="50%" width="50%" -->
+![Azure Sphere Shield Image](https://github.com/microcompiler/azmatrix/blob/master/images/mx-board.jpg)
 
 
 ## Requirements
