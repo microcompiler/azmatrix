@@ -38,10 +38,14 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
+    <ClCompile Include="delay.c" />
     <ClCompile Include="epoll_timerfd_utilities.c" />
+    <ClCompile Include="mx_board.c" />
     <ClCompile Include="mx_draw.c" />
     <ClCompile Include="mx_font.c" />
     <ClCompile Include="mx_main.c" />
+    <ClInclude Include="delay.h" />
+    <ClInclude Include="mx_board.h" />
     <ClInclude Include="mx_config.h" />
     <ClInclude Include="mx_dejavu_10.h" />
     <ClInclude Include="mx_dejavu_20.h" />

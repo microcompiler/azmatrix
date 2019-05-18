@@ -1,3 +1,5 @@
+#pragma once
+
 /*Store the image of the letters (glyph) */
 static const uint8_t dejavu_20_bitmap[] =
 {

@@ -40,6 +40,12 @@
     <ClInclude Include="mx_font.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="delay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mx_board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mt3620_rdb.h">
@@ -57,6 +63,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="mx_font.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mx_board.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="delay.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

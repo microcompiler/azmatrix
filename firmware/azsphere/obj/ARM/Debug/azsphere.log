@@ -1,7 +1,7 @@
 ﻿  Azure Sphere Utility version 19.2.4.2632
   Copyright (C) Microsoft Corporation. All rights reserved.
    
-  Start time (UTC): Sunday, 07 April 2019 21:06:19 
+  Start time (UTC): Monday, 08 April 2019 05:35:42 
   verbose: Creating image package. 
   verbose: Azure Sphere application image package written. 
   verbose: Appending metadata. 
@@ -9,14 +9,14 @@
     Section: Identity
       Image Type:           Application
       Component ID:         c5aadee3-760e-4730-ae74-1f58ef38cc03
-      Image ID:             e589f3c5-14a7-4a76-8eef-6e197a3b0f76
+      Image ID:             6c6ff2d7-1030-48b9-8333-35a860dcb5ef
     Section: Signature
       Signing Type:         ECDsa256
       Cert:                 a8d5cc6958f48710140d7a26160fc1cfc31f5df0
     Section: Debug
       Image Name:           azsphere
-      Built On (UTC):       4/7/2019 9:06:20 PM
-      Built On (Local):     4/7/2019 2:06:20 PM
+      Built On (UTC):       4/8/2019 5:35:43 AM
+      Built On (Local):     4/7/2019 10:35:43 PM
     Section: Temporary Image
       Remove image at boot: False
       Under development:    True
@@ -24,5 +24,5 @@
       Depends on:           ApplicationRuntime, version 1
    
   verbose: Packaging completed successfully. 
-  verbose: Output file is at: C:\Repos\Bytewizer for IoT\hardware\azsphere\firmware\azsphere\bin\ARM\Debug\Bytewizer.Matrix.imagepackage 
-  Command completed successfully in 00:00:00.7628125. 
+  verbose: Output file is at: C:\Repos\Github\azmatrix\firmware\azsphere\bin\ARM\Debug\Bytewizer.Matrix.imagepackage 
+  Command completed successfully in 00:00:00.5958191. 
